@@ -13,6 +13,7 @@ Actualmente, el paciente continua en rehabilitacion debido a que no puede movili
 
 ## IMPACTO
 
+
 # PROPUESTA DE SOLUCIÓN
 ## DESCRIPCIÓN
 Para la acción de comer, hay 3 fases: el agarre de cuchara, el barrido de la comida y el barrido del plato a la boca. Nuestro dispositivo ayudará en todo el proceso. Nuestro tendrá 2 partes. Una parte será una cuchara con un mango universal que, en vez de hacer el barrido de la comida que reemplaza el giro de la muñeca, agarrará la comida como unas pinzas. Y la segunda parte será un exoesqueleto de antebrazo para potenciar la fuerza del paciente al elevar su brazo a su boca. El exoesqueleto contará  con bandas elásticas y con un diseño electrónico mínimo.
