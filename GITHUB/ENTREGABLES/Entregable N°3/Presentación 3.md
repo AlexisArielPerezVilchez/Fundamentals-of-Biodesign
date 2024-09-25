@@ -18,9 +18,10 @@ Actualmente, el paciente continua en rehabilitacion debido a que no puede movili
 ## DESCRIPCIÓN
 Para la acción de comer, hay 3 fases: el agarre de cuchara, el barrido de la comida y el barrido del plato a la boca. Nuestro dispositivo ayudará en todo el proceso. Nuestro tendrá 2 partes. Una parte será una cuchara con un mango universal que, en vez de hacer el barrido de la comida que reemplaza el giro de la muñeca, agarrará la comida como unas pinzas. Y la segunda parte será un exoesqueleto de antebrazo para potenciar la fuerza del paciente al elevar su brazo a su boca. El exoesqueleto contará  con bandas elásticas y con un diseño electrónico mínimo.
 ## CARACTERÍSTICAS DEL PROTOTIPO
-- Mango universal: 
-- Agarre de comida: 
-- Elevación: 
+- Mango universal: Nuestro dispositivo tendrá una banda ajustable alrededor del torso de la mano para colocar el utensilio.
+- Agarre de comida: La mayoría de cucharas necesitan girar para hacer el barrido de la comida. Nuestra cuchara, por otra parte, se abrirá en 2 (como unas pinzas) al detectar una señal para agarrar la comida en el plato , y luego se cerrará.
+- Alerta: Añadiremos también una señal de alerta para que el usuario sepa cuando la cuchara está a punto de abrirse y no se caiga la comida.
+- Elevación: El paciente puede elevar su brazo hasta cierta altura, sin embargo, no llega la cuchara a su boca. Para ello, usaremos un exoesqueleto para aumentar su fuerza de elevación en su antebrazo. 
 ## BENEFICIOS
  - Sin pérdida del movimiento que el paciente si puede hacer según la escala ASIA
  - Independencia para ingerir alimentos
