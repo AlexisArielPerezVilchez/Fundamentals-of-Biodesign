@@ -57,5 +57,4 @@ Link: https://www.mdpi.com/1424-8220/22/12/4313
 
 
 ##
-[![ANEXO.png](https://i.postimg.cc/tJsPyLkj/ANEXO.png)](https://postimg.cc/rRLzNZ7n)
-
+[![ANEXO-1.png](https://i.postimg.cc/brS7bwgF/ANEXO-1.png)](https://postimg.cc/bS8Vf8KQ)
