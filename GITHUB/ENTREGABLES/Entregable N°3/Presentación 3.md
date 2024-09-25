@@ -12,7 +12,7 @@ Acerca del paciente, sufrió accidente de tráfico, mientras conducía moto line
 Actualmente, el paciente continua en rehabilitacion debido a que no puede movilizar algunos miembros superiores para actividades esenciales diarias, centrandonos el antebrazo derecho, del cual el paciente no puede elevar su antebrazo lo suficiente para realizar la alimentacion de manera independiente, debido a que le falta cierta altura para que pueda llegar a lograrlo.
 
 ## IMPACTO
-
+El impacto del problema
 
 # PROPUESTA DE SOLUCIÓN
 ## DESCRIPCIÓN
