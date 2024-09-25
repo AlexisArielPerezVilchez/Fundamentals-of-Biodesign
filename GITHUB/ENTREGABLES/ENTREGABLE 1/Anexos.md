@@ -57,6 +57,8 @@ Link: https://www.mdpi.com/1424-8220/22/12/4313
 
 
 ##
-[![ANEXO-2.png](https://i.postimg.cc/g2p0YCkP/ANEXO-2.png)](https://postimg.cc/2VHYGXZH) [![ENTREGABLE-N-4-2.png](https://i.postimg.cc/wv9qzL6c/ENTREGABLE-N-4-2.png)](https://postimg.cc/WDfL6Dqh)
+[![ANEXO-2.png](https://i.postimg.cc/g2p0YCkP/ANEXO-2.png)](https://postimg.cc/2VHYGXZH) 
+##
+[![ENTREGABLE-N-4-2.png](https://i.postimg.cc/wv9qzL6c/ENTREGABLE-N-4-2.png)](https://postimg.cc/WDfL6Dqh)
 ##
 [![Whats-App-Image-2024-09-25-at-3-43-40-PM.jpg](https://i.postimg.cc/vH06N8tN/Whats-App-Image-2024-09-25-at-3-43-40-PM.jpg)](https://postimg.cc/bs2JGhMx)
