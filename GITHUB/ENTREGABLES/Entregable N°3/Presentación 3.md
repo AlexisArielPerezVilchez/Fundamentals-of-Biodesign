@@ -30,9 +30,10 @@ Para la acción de comer, hay 3 fases: el agarre de cuchara, el barrido de la co
 ## VIABILIDAD TÉCNICA
 Para prototipar nuestra propuesta necesitamos considerar los aspectos de su viabilidad:
 
- -Diseño 3D: Nuestro dispositivo es de un tamaño mediano, por lo tanto se puede diseñar y ensamblar por partes más pequeñas que las máquinas de impresión 3D si puedan fabricar. Necesitamos los conocimientos de ensamblaje por partes, especialmente partes que puedan girar con respecto a otras. Para la impresión 3D necesitamos manejar aplicaciones como Autodesk Inventor, Ultimaker Cura u otros. 
+ -Diseño 3D: El tamaño total de nuestro dispositivo es relativamente mediano, lo cual es posible la impresión 3D en este tiempo. Tanto la cuchara como el exoesqueleto para el antebrazo se ensamblarán con componentes más pequeños. Para el ensamblaje usaremos piezas que giran entre si debido al funcionamiento de la cuchara y del exoesqueleto. 
 
- -Diseño electrónico: Nuestro dispositivo tendrá una base considerablemente grande para ensamblar los componentes electrónicos necesarios dentro. Para la función de levantar el brazo del usuario necesitaremos sensores de flexión y/o de posición, y una potencia para que lea los indicadores de los sensores y pueda elevar la parte del dispositivo donde reposa la muñeca del usuario; y para el funcioanmiento general del dispositivo necesitamos también componentes como cables, resistencias, protoboard, arduino 1, etc. Para el diseño digital usaremos Tinkercad u otra aplicación similar.
+ -Diseño electrónico: Para la apertura y/o cerradura de la cuchara, usaremos un motor para tal movimiento. Para la señal para activar el motor usaremos sensores como de aproximación, flexión o botón; los cuales son posibles para el movimiento restringido del paciente. Para el diseño del exoesqueleto usaremos pocos componentes electrónicos, si es posible ninguno. Esto es posible por los inventos en la web, ya que existen exoesqueletos que funcionan con solo un o ningún motor y bandas elásticas. 
+
 
 # COHERENCIA
 ##
