@@ -12,7 +12,7 @@ Acerca del paciente, sufrió accidente de tráfico, mientras conducía moto line
 Actualmente, el paciente continua en rehabilitacion debido a que no puede movilizar algunos miembros superiores para actividades esenciales diarias, centrandonos el antebrazo derecho, del cual el paciente no puede elevar su antebrazo lo suficiente para realizar la alimentacion de manera independiente, debido a que le falta cierta altura para que pueda llegar a lograrlo.
 
 ## IMPACTO
-El impacto del problema
+El impacto de las lesiones de medula espinal C4 es que al no poder movilizar los miembros superiores e inferiores es no poder realizar actividades diarias, como alimentarse, vestirse o moverse de forma independiente, del cual en Peru hay muy poco acceso a poder realizar una rehabilitacion efectiva debido a factores economicos, ausencia de conocimiento de diferentes dispositivos asistivos, como exoesqueletos o guantes de ayuda biomecánica, que podrían mejorar su independencia funcional y la incrementancion los casos a un 15% segun la OMS.
 
 # PROPUESTA DE SOLUCIÓN
 ## DESCRIPCIÓN
