@@ -4,7 +4,7 @@
 
 # DISEÑO EN ONSHAPE 
 ## Diseño del brazo
-[![B.png](https://i.postimg.cc/xjJXFK1k/B.png)](https://postimg.cc/Sj4QnY8q)
+[![Braz.png](https://i.postimg.cc/7PF5vf5K/Braz.png)](https://postimg.cc/Cd4hkMH8)
 ## Diseño del antebrazo
 [![Captura-de-pantalla-2024-10-08-232356.png](https://i.postimg.cc/pdSRGFmP/Captura-de-pantalla-2024-10-08-232356.png)](https://postimg.cc/Ff0M11b6)
 ## Diseño de la cuchara
