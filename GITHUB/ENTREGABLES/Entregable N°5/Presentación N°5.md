@@ -2,7 +2,10 @@
 ## Diagrama de motor de movimiento
 [![Schematic-Esquema-eletronico-funbio-2024-10-08.png](https://i.postimg.cc/13nVPTTQ/Schematic-Esquema-eletronico-funbio-2024-10-08.png)](https://postimg.cc/87GzmyNK)
 
-# DISEÑO EN ONSHAPE 
+# DISEÑO EN ONSHAPE
+
+##Link: https://cad.onshape.com/documents/40e63079cd4ec4feefb576fb/w/ade3bc3b182d054d8ae09658/e/51e6552abffe37c33f632491?renderMode=0&uiState=67060d21e0353503abf7a749
+##
 ## Diseño del brazo
 [![Braz.png](https://i.postimg.cc/7PF5vf5K/Braz.png)](https://postimg.cc/Cd4hkMH8) 
 ## Diseño del antebrazo
