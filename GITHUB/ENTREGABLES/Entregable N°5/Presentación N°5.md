@@ -4,8 +4,9 @@
 
 # DISEÑO EN ONSHAPE
 
-##Link: https://cad.onshape.com/documents/40e63079cd4ec4feefb576fb/w/ade3bc3b182d054d8ae09658/e/51e6552abffe37c33f632491?renderMode=0&uiState=67060d21e0353503abf7a749
+## Link 1: https://cad.onshape.com/documents/40e63079cd4ec4feefb576fb/w/ade3bc3b182d054d8ae09658/e/51e6552abffe37c33f632491?renderMode=0&uiState=67060d21e0353503abf7a749
 ##
+## Link 2: https://cad.onshape.com/documents/8c98ed9999380a4779b966de/w/1145da15475aaa594e3840a2/e/6ab7d88fa1ecec1b67fa2fdd?renderMode=0&uiState=67060d897e45d16e34f5caff
 ## Diseño del brazo
 [![Braz.png](https://i.postimg.cc/7PF5vf5K/Braz.png)](https://postimg.cc/Cd4hkMH8) 
 ## Diseño del antebrazo
