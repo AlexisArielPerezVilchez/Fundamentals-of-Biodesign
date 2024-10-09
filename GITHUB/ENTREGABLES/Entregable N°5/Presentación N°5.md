@@ -1,6 +1,6 @@
 # ESQUEMA ELECTRÓNICO
 ## Diagrama de motor de movimiento
-[![Schematic-Esquema-eletronico-funbio-2024-10-08.png](https://i.postimg.cc/13nVPTTQ/Schematic-Esquema-eletronico-funbio-2024-10-08.png)](https://postimg.cc/87GzmyNK)
+[Schematic-Esquema-eletronico-funbio-2024-10-08.png](https://postimg.cc/87GzmyNK)
 
 # DISEÑO EN ONSHAPE 
 ## Diseño del brazo
