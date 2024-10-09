@@ -12,4 +12,5 @@
 ## Diseño de la caja del boton
 [![Captura-de-pantalla-2024-10-08-233437.png](https://i.postimg.cc/ryv4KfNN/Captura-de-pantalla-2024-10-08-233437.png)](https://postimg.cc/F1Vz6gqY)
 # DISEÑO EN SKETCHFAB
-1. Diseñ del antebrazo: https://skfb.ly/prE7I
+1. Diseño del antebrazo: https://skfb.ly/prE7I
+2. Diseño del brazo: https://skfb.ly/prEqL
