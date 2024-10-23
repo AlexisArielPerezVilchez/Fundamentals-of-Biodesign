@@ -4,7 +4,7 @@
 
 [![Hito-1-FUNBIO.jpg](https://i.postimg.cc/SQ5F3fgW/Hito-1-FUNBIO.jpg)](https://postimg.cc/hh957TWj)
 
-[![Hito-1-FUNBIO-1.jpg](https://i.postimg.cc/qvrkDG71/Hito-1-FUNBIO-1.jpg)](https://postimg.cc/mtdftCC9)
+[![Hito-1-FUNBIO-3.png](https://i.postimg.cc/mZM3Qb17/Hito-1-FUNBIO-3.png)](https://postimg.cc/NLsrtv40)
 
 [![Hito-1-FUNBIO.png](https://i.postimg.cc/Dzy7nyLs/Hito-1-FUNBIO.png)](https://postimg.cc/xX7wPQsT)
 
