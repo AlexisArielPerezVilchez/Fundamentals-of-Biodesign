@@ -1,5 +1,7 @@
 # HITO 1
 
+[![Hito-1-FUNBIO-2.png](https://i.postimg.cc/D0qqFg3x/Hito-1-FUNBIO-2.png)](https://postimg.cc/q6vtx2RK)
+
 [![Hito-1-FUNBIO.jpg](https://i.postimg.cc/SQ5F3fgW/Hito-1-FUNBIO.jpg)](https://postimg.cc/hh957TWj)
 
 [![Hito-1-FUNBIO-1.jpg](https://i.postimg.cc/qvrkDG71/Hito-1-FUNBIO-1.jpg)](https://postimg.cc/mtdftCC9)
