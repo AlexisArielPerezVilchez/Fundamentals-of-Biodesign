@@ -52,6 +52,11 @@
 
 [![25.png](https://i.postimg.cc/769sDw1C/25.png)](https://postimg.cc/5YHqScR1)
 
+[![Hito-1-FUNBIO-8.png](https://i.postimg.cc/KzhjFycy/Hito-1-FUNBIO-8.png)](https://postimg.cc/zLp8S6Rd)
+
+[![Hito-1-FUNBIO-6.png](https://i.postimg.cc/t4f7SxLJ/Hito-1-FUNBIO-6.png)](https://postimg.cc/QFQXVHNZ)
+
+[![Hito-1-FUNBIO-7.png](https://i.postimg.cc/bvtrKvhT/Hito-1-FUNBIO-7.png)](https://postimg.cc/4KXXcsn7)
 
 
 
