@@ -8,6 +8,11 @@
 
 [![5.png](https://i.postimg.cc/HsXM73Kz/5.png)](https://postimg.cc/7fPhF1qJ)
 
+[![6.png](https://i.postimg.cc/43q4PRH9/6.png)](https://postimg.cc/67VN6S0W)
+
+[![7.png](https://i.postimg.cc/2yfkpdwj/7.png)](https://postimg.cc/VrDQnCp2)
+
+[![8.png](https://i.postimg.cc/y6F6m51D/8.png)](https://postimg.cc/vDZdM06y)
 
 
 ## Canva: https://www.canva.com/design/DAGUWq4xBo0/cHYsSU5yvxMrwtyjCMydkA/edit?utm_content=DAGUWq4xBo0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
