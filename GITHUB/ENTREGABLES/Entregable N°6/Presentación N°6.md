@@ -13,10 +13,9 @@
 
 [![ENTREGABLE-N-6-11.png](https://i.postimg.cc/VL1ZR3bK/ENTREGABLE-N-6-11.png)](https://postimg.cc/Dmjcfp6G)
 ##
-
-[![ENTREGABLE-N-6-4.png](https://i.postimg.cc/cLSwqScn/ENTREGABLE-N-6-4.png)](https://postimg.cc/crFrYP2x)
+[![ENTREGABLE-N-6-4.png](https://i.postimg.cc/VkkGyngM/ENTREGABLE-N-6-4.png)](https://postimg.cc/Cz9HkZWL)
 ##
-
+[![ENTREGABLE-N-6-5.png](https://i.postimg.cc/nckRw04p/ENTREGABLE-N-6-5.png)](https://postimg.cc/jLD4D63F)
 
 [![ENTREGABLE-N-6-5.png](https://i.postimg.cc/BnBD4Vhw/ENTREGABLE-N-6-5.png)](https://postimg.cc/Wdtt7XcM)
 ##
