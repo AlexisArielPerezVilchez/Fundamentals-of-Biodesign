@@ -19,3 +19,5 @@
 ##
 [![ENTREGABLE-N-6-6.png](https://i.postimg.cc/L6Ck17kY/ENTREGABLE-N-6-6.png)](https://postimg.cc/6yZGsMmt)
 ##
+[![ENTREGABLE-N-6-7.png](https://i.postimg.cc/QdFQkbS6/ENTREGABLE-N-6-7.png)](https://postimg.cc/hXqQKVkx)
+##
