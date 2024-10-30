@@ -21,3 +21,6 @@
 ##
 [![ENTREGABLE-N-6-7.png](https://i.postimg.cc/QdFQkbS6/ENTREGABLE-N-6-7.png)](https://postimg.cc/hXqQKVkx)
 ##
+[![ENTREGABLE-N-6-8.png](https://i.postimg.cc/bw4Q6tBq/ENTREGABLE-N-6-8.png)](https://postimg.cc/LJBY5nSW)
+##
+[![ENTREGABLE-N-6-9.png](https://i.postimg.cc/43tpjxDV/ENTREGABLE-N-6-9.png)](https://postimg.cc/nsFsDpch)
