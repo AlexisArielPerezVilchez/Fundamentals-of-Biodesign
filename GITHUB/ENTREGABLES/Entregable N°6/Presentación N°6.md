@@ -6,7 +6,7 @@
 
 [![ENTREGABLE-N-6-2.png](https://i.postimg.cc/C1LRhMZR/ENTREGABLE-N-6-2.png)](https://postimg.cc/8F9pwSmG)
 ##
-[![ENTREGABLE-N-6-10.png](https://i.postimg.cc/d3cHgfNt/ENTREGABLE-N-6-10.png)](https://postimg.cc/Hc39y6Cf)
+[![ENTREGABLE-N-6-10.png](https://i.postimg.cc/tRFmFX71/ENTREGABLE-N-6-10.png)](https://postimg.cc/Jt4qLCNm)
 ##
 [![ENTREGABLE-N-6-3.png](https://i.postimg.cc/ZnXnxrwN/ENTREGABLE-N-6-3.png)](https://postimg.cc/D4d72bkf)
 ##
