@@ -10,8 +10,7 @@
 ##
 [![ENTREGABLE-N-6-3.png](https://i.postimg.cc/ZnXnxrwN/ENTREGABLE-N-6-3.png)](https://postimg.cc/D4d72bkf)
 ##
-
-[![ENTREGABLE-N-6-11.png](https://i.postimg.cc/2yLctD7t/ENTREGABLE-N-6-11.png)](https://postimg.cc/CnYsZ9tC)
+[![ENTREGABLE-N-6-11.png](https://i.postimg.cc/L5kCSVGk/ENTREGABLE-N-6-11.png)](https://postimg.cc/2L6FFnk3)
 ##
 
 [![ENTREGABLE-N-6-4.png](https://i.postimg.cc/cLSwqScn/ENTREGABLE-N-6-4.png)](https://postimg.cc/crFrYP2x)
