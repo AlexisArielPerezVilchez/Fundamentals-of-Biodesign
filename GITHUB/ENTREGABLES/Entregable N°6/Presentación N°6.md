@@ -5,3 +5,12 @@
 [![ENTREGABLE-N-6-2.png](https://i.postimg.cc/C1LRhMZR/ENTREGABLE-N-6-2.png)](https://postimg.cc/8F9pwSmG)
 
 [![ENTREGABLE-N-6-3.png](https://i.postimg.cc/ZnXnxrwN/ENTREGABLE-N-6-3.png)](https://postimg.cc/D4d72bkf)
+
+[![ENTREGABLE-N-6-4.png](https://i.postimg.cc/cLSwqScn/ENTREGABLE-N-6-4.png)](https://postimg.cc/crFrYP2x)
+
+[![ENTREGABLE-N-6-5.png](https://i.postimg.cc/BnBD4Vhw/ENTREGABLE-N-6-5.png)](https://postimg.cc/Wdtt7XcM)
+
+[![ENTREGABLE-N-6-6.png](https://i.postimg.cc/7LPz6ndP/ENTREGABLE-N-6-6.png)](https://postimg.cc/ZWgnspJX)
+
+[![ENTREGABLE-N-6-7.png](https://i.postimg.cc/SKZMzzb6/ENTREGABLE-N-6-7.png)](https://postimg.cc/sBhXkxXx)
+
