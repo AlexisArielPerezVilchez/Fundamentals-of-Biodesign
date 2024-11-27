@@ -12,7 +12,7 @@
 
 [![7.png](https://i.postimg.cc/6QpLr0W4/7.png)](https://postimg.cc/NKZHYRrQ)
 
-[![8.png](https://i.postimg.cc/NMy6Vjrg/8.png)](https://postimg.cc/WFvqqjnK)
+
 
 [![9.png](https://i.postimg.cc/hPKJQGPf/9.png)](https://postimg.cc/fkgW6DdN)
 
@@ -24,9 +24,6 @@
 
 [![13.png](https://i.postimg.cc/brsBmPqb/13.png)](https://postimg.cc/fSQCb6tT)
 
-[![14.png](https://i.postimg.cc/pVmvGbGq/14.png)](https://postimg.cc/nMfNr5tD)
-
-[![15.png](https://i.postimg.cc/d3yzqFgF/15.png)](https://postimg.cc/tn9r5KXv)
 
 [![16.png](https://i.postimg.cc/Zqsgp0SZ/16.png)](https://postimg.cc/06mcqkjH)
 
