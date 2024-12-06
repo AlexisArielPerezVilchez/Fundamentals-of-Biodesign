@@ -31,4 +31,4 @@
 
 [![18.png](https://i.postimg.cc/FHWGnqnV/18.png)](https://postimg.cc/LJPzJySJ)
 
-Link Canva: https://www.canva.com/design/DAGXf0Kwt4k/X_lC0qTA8QQsknDBos0Dkw/edit?utm_content=DAGXf0Kwt4k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Link Canva: https://www.canva.com/design/DAGXnr_vYco/wTmbVDYxnDPmUNld8CW3OQ/edit?utm_content=DAGXnr_vYco&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
